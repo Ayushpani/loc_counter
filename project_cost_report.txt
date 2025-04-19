@@ -1,0 +1,21 @@
+
+Project Cost Estimation Report
+==============================
+Category: Semi-Detached Software Project
+Efforts Adjustment Factor (EAF): 1.0
+
+Lines of Code (LOC): 19157
+KLOC: 19.16
+
+COCOMO Calculations:
+- Effort (E): 81.91 Person-Months
+- Time (T): 11.68 Months
+- People (P): 8 Persons
+
+Cost Estimation:
+1. Developer Cost: Rs. 0.0
+2. Final System Cost: Rs. 55000.0
+3. Paid Software Cost: Rs. 0
+4. Miscellaneous Cost: Rs. 10000
+5. Total Cost: Rs. 65000.0
+==============================

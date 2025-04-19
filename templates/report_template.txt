@@ -1,0 +1,20 @@
+Project Cost Estimation Report
+==============================
+Category: Semi-Detached Software Project
+Efforts Adjustment Factor (EAF): {eaf}
+
+Lines of Code (LOC): {loc}
+KLOC: {kloc}
+
+COCOMO Calculations:
+- Effort (E): {effort} Person-Months
+- Time (T): {time} Months
+- People (P): {people} Persons
+
+Cost Estimation:
+1. Developer Cost: Rs. {developer_cost}
+2. Final System Cost: Rs. {final_system_cost}
+3. Paid Software Cost: Rs. {paid_sw_cost}
+4. Miscellaneous Cost: Rs. {misc_cost}
+5. Total Cost: Rs. {total_cost}
+==============================

@@ -1,0 +1,489 @@
+2025-04-19 12:31:38,610 - INFO - Fetching .gitignore files...
+2025-04-19 12:31:40,993 - WARNING - Failed to parse .gitignore aiworkspace/.gitignore: expected str, bytes or os.PathLike object, not list
+2025-04-19 12:31:56,873 - WARNING - Failed to parse .gitignore backend/.gitignore: expected str, bytes or os.PathLike object, not list
+2025-04-19 12:32:01,723 - INFO - Listing repository files...
+2025-04-19 12:32:22,073 - INFO - Found 221 non-ignored files
+2025-04-19 12:32:22,073 - INFO - Processing 1/221 (0.5%): .github/workflows/ci-cd.yml [Elapsed: 43.5s]
+2025-04-19 12:32:22,073 - INFO - Processing 2/221 (0.9%): README.md [Elapsed: 43.5s]
+2025-04-19 12:32:22,073 - INFO - Processing 3/221 (1.4%): aiworkspace/.dockerignore [Elapsed: 43.5s]
+2025-04-19 12:32:22,073 - INFO - Processing 4/221 (1.8%): aiworkspace/.gitignore [Elapsed: 43.5s]
+2025-04-19 12:32:22,073 - INFO - Processing 5/221 (2.3%): aiworkspace/Dockerfile [Elapsed: 43.5s]
+2025-04-19 12:32:22,073 - INFO - Processing 6/221 (2.7%): aiworkspace/package-lock.json [Elapsed: 43.5s]
+2025-04-19 12:32:22,073 - INFO - Processing 7/221 (3.2%): aiworkspace/package.json [Elapsed: 43.5s]
+2025-04-19 12:32:22,083 - INFO - Processing 8/221 (3.6%): aiworkspace/public/index.html [Elapsed: 43.5s]
+2025-04-19 12:32:22,083 - INFO - Processing 9/221 (4.1%): aiworkspace/public/manifest.json [Elapsed: 43.5s]
+2025-04-19 12:32:22,083 - INFO - Processing 10/221 (4.5%): aiworkspace/public/robots.txt [Elapsed: 43.5s]
+2025-04-19 12:32:22,403 - INFO - Counted 91 lines in .github/workflows/ci-cd.yml (extension: yml)
+2025-04-19 12:32:22,594 - INFO - Counted 43 lines in aiworkspace/public/index.html (extension: html)
+2025-04-19 12:32:22,665 - INFO - Counted 25 lines in aiworkspace/public/manifest.json (extension: json)
+2025-04-19 12:32:22,665 - INFO - Counted 35 lines in aiworkspace/Dockerfile (extension: no_extension)
+2025-04-19 12:32:22,666 - INFO - Counted 70 lines in README.md (extension: md)
+2025-04-19 12:32:22,666 - INFO - Counted 134 lines in aiworkspace/public/robots.txt (extension: txt)
+2025-04-19 12:32:22,667 - INFO - Counted 135 lines in aiworkspace/package.json (extension: json)
+2025-04-19 12:32:22,667 - INFO - Counted 0 lines in aiworkspace/package-lock.json (extension: json)
+2025-04-19 12:32:22,668 - INFO - Counted 4 lines in aiworkspace/.dockerignore (extension: no_extension)
+2025-04-19 12:32:22,668 - INFO - Counted 26 lines in aiworkspace/.gitignore (extension: no_extension)
+2025-04-19 12:32:22,669 - INFO - Processing 11/221 (5.0%): aiworkspace/src/App.css [Elapsed: 44.1s]
+2025-04-19 12:32:22,669 - INFO - Processing 12/221 (5.4%): aiworkspace/src/App.js [Elapsed: 44.1s]
+2025-04-19 12:32:22,670 - INFO - Processing 13/221 (5.9%): aiworkspace/src/App.test.js [Elapsed: 44.1s]
+2025-04-19 12:32:22,670 - INFO - Processing 14/221 (6.3%): aiworkspace/src/App_docs.css [Elapsed: 44.1s]
+2025-04-19 12:32:22,671 - INFO - Processing 15/221 (6.8%): aiworkspace/src/App_docs.js [Elapsed: 44.1s]
+2025-04-19 12:32:22,671 - INFO - Processing 16/221 (7.2%): aiworkspace/src/Tasks/TaskTracker.css [Elapsed: 44.1s]
+2025-04-19 12:32:22,672 - INFO - Processing 17/221 (7.7%): aiworkspace/src/Tasks/TaskTracker.jsx [Elapsed: 44.1s]
+2025-04-19 12:32:22,672 - INFO - Processing 18/221 (8.1%): aiworkspace/src/chatGpt/Gpt.css [Elapsed: 44.1s]
+2025-04-19 12:32:22,673 - INFO - Processing 19/221 (8.6%): aiworkspace/src/chatGpt/Gpt.jsx [Elapsed: 44.1s]
+2025-04-19 12:32:22,673 - INFO - Processing 20/221 (9.0%): aiworkspace/src/chatbot/Chatbot.css [Elapsed: 44.1s]
+2025-04-19 12:32:22,993 - INFO - Excluded file by extension: aiworkspace/src/chatbot/Chatbot.css
+2025-04-19 12:32:22,993 - INFO - Skipping non-text file: aiworkspace/src/chatbot/Chatbot.css
+2025-04-19 12:32:22,993 - INFO - Excluded file by extension: aiworkspace/src/App.css
+2025-04-19 12:32:22,993 - INFO - Skipping non-text file: aiworkspace/src/App.css
+2025-04-19 12:32:23,003 - INFO - Counted 238 lines in aiworkspace/src/App_docs.js (extension: js)
+2025-04-19 12:32:23,003 - INFO - Excluded file by extension: aiworkspace/src/Tasks/TaskTracker.css
+2025-04-19 12:32:23,003 - INFO - Skipping non-text file: aiworkspace/src/Tasks/TaskTracker.css
+2025-04-19 12:32:23,004 - INFO - Counted 61 lines in aiworkspace/src/App.js (extension: js)
+2025-04-19 12:32:23,004 - INFO - Counted 30 lines in aiworkspace/src/chatGpt/Gpt.jsx (extension: jsx)
+2025-04-19 12:32:23,004 - INFO - Counted 12 lines in aiworkspace/src/App.test.js (extension: js)
+2025-04-19 12:32:23,004 - INFO - Excluded file by extension: aiworkspace/src/chatGpt/Gpt.css
+2025-04-19 12:32:23,004 - INFO - Skipping non-text file: aiworkspace/src/chatGpt/Gpt.css
+2025-04-19 12:32:23,004 - INFO - Counted 530 lines in aiworkspace/src/Tasks/TaskTracker.jsx (extension: jsx)
+2025-04-19 12:32:23,006 - INFO - Excluded file by extension: aiworkspace/src/App_docs.css
+2025-04-19 12:32:23,007 - INFO - Skipping non-text file: aiworkspace/src/App_docs.css
+2025-04-19 12:32:23,007 - INFO - Processing 21/221 (9.5%): aiworkspace/src/chatbot/Chatbot.jsx [Elapsed: 44.4s]
+2025-04-19 12:32:23,008 - INFO - Processing 22/221 (10.0%): aiworkspace/src/components/FloatingChat.jsx [Elapsed: 44.4s]
+2025-04-19 12:32:23,009 - INFO - Processing 23/221 (10.4%): aiworkspace/src/components/FloatingChat.module.css [Elapsed: 44.4s]
+2025-04-19 12:32:23,009 - INFO - Processing 24/221 (10.9%): aiworkspace/src/components/dashboardpage/DashboardPage.jsx [Elapsed: 44.4s]
+2025-04-19 12:32:23,010 - INFO - Processing 25/221 (11.3%): aiworkspace/src/components/dashboardpage/DashboardPage.module.css [Elapsed: 44.4s]
+2025-04-19 12:32:23,010 - INFO - Processing 26/221 (11.8%): aiworkspace/src/components/dashboardpage/MainContent.jsx [Elapsed: 44.4s]
+2025-04-19 12:32:23,011 - INFO - Processing 27/221 (12.2%): aiworkspace/src/components/dashboardpage/MainContent.module.css [Elapsed: 44.4s]
+2025-04-19 12:32:23,011 - INFO - Processing 28/221 (12.7%): aiworkspace/src/components/dashboardpage/ProgressChart.jsx [Elapsed: 44.4s]
+2025-04-19 12:32:23,012 - INFO - Processing 29/221 (13.1%): aiworkspace/src/components/dashboardpage/ProgressChart.module.css [Elapsed: 44.4s]
+2025-04-19 12:32:23,012 - INFO - Processing 30/221 (13.6%): aiworkspace/src/components/dashboardpage/ProjectCards.jsx [Elapsed: 44.4s]
+2025-04-19 12:32:23,363 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/MainContent.module.css
+2025-04-19 12:32:23,363 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/MainContent.module.css
+2025-04-19 12:32:23,363 - INFO - Counted 56 lines in aiworkspace/src/components/dashboardpage/DashboardPage.jsx (extension: jsx)
+2025-04-19 12:32:23,363 - INFO - Counted 117 lines in aiworkspace/src/chatbot/Chatbot.jsx (extension: jsx)
+2025-04-19 12:32:23,495 - INFO - Counted 157 lines in aiworkspace/src/components/FloatingChat.jsx (extension: jsx)
+2025-04-19 12:32:23,499 - INFO - Counted 57 lines in aiworkspace/src/components/dashboardpage/ProjectCards.jsx (extension: jsx)
+2025-04-19 12:32:23,500 - INFO - Counted 82 lines in aiworkspace/src/components/dashboardpage/MainContent.jsx (extension: jsx)
+2025-04-19 12:32:23,500 - INFO - Excluded file by extension: aiworkspace/src/components/FloatingChat.module.css
+2025-04-19 12:32:23,500 - INFO - Skipping non-text file: aiworkspace/src/components/FloatingChat.module.css
+2025-04-19 12:32:23,501 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/ProgressChart.module.css
+2025-04-19 12:32:23,501 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/ProgressChart.module.css
+2025-04-19 12:32:23,502 - INFO - Counted 43 lines in aiworkspace/src/components/dashboardpage/ProgressChart.jsx (extension: jsx)
+2025-04-19 12:32:23,503 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/DashboardPage.module.css
+2025-04-19 12:32:23,503 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/DashboardPage.module.css
+2025-04-19 12:32:23,503 - INFO - Processing 31/221 (14.0%): aiworkspace/src/components/dashboardpage/ProjectCards.module.css [Elapsed: 44.9s]
+2025-04-19 12:32:23,505 - INFO - Processing 32/221 (14.5%): aiworkspace/src/components/dashboardpage/RightPanel.jsx [Elapsed: 44.9s]
+2025-04-19 12:32:23,506 - INFO - Processing 33/221 (14.9%): aiworkspace/src/components/dashboardpage/RightPanel.module.css [Elapsed: 44.9s]
+2025-04-19 12:32:23,506 - INFO - Processing 34/221 (15.4%): aiworkspace/src/components/dashboardpage/ScheduleSection.jsx [Elapsed: 44.9s]
+2025-04-19 12:32:23,507 - INFO - Processing 35/221 (15.8%): aiworkspace/src/components/dashboardpage/ScheduleSection.module.css [Elapsed: 44.9s]
+2025-04-19 12:32:23,508 - INFO - Processing 36/221 (16.3%): aiworkspace/src/components/dashboardpage/Sidebar.jsx [Elapsed: 44.9s]
+2025-04-19 12:32:23,508 - INFO - Processing 37/221 (16.7%): aiworkspace/src/components/dashboardpage/Sidebar.module.css [Elapsed: 44.9s]
+2025-04-19 12:32:23,509 - INFO - Processing 38/221 (17.2%): aiworkspace/src/components/dashboardpage/TasksSection.jsx [Elapsed: 44.9s]
+2025-04-19 12:32:23,510 - INFO - Processing 39/221 (17.6%): aiworkspace/src/components/dashboardpage/TasksSection.module.css [Elapsed: 44.9s]
+2025-04-19 12:32:23,510 - INFO - Processing 40/221 (18.1%): aiworkspace/src/components/features/Features.css [Elapsed: 44.9s]
+2025-04-19 12:32:23,830 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/ProjectCards.module.css
+2025-04-19 12:32:23,830 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/ProjectCards.module.css
+2025-04-19 12:32:23,833 - INFO - Counted 176 lines in aiworkspace/src/components/dashboardpage/ScheduleSection.jsx (extension: jsx)
+2025-04-19 12:32:23,833 - INFO - Excluded file by extension: aiworkspace/src/components/features/Features.css
+2025-04-19 12:32:23,833 - INFO - Skipping non-text file: aiworkspace/src/components/features/Features.css
+2025-04-19 12:32:23,833 - INFO - Counted 294 lines in aiworkspace/src/components/dashboardpage/Sidebar.jsx (extension: jsx)
+2025-04-19 12:32:23,833 - INFO - Counted 14 lines in aiworkspace/src/components/dashboardpage/RightPanel.jsx (extension: jsx)
+2025-04-19 12:32:23,833 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/ScheduleSection.module.css
+2025-04-19 12:32:23,833 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/ScheduleSection.module.css
+2025-04-19 12:32:23,833 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/RightPanel.module.css
+2025-04-19 12:32:23,833 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/RightPanel.module.css
+2025-04-19 12:32:23,839 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/Sidebar.module.css
+2025-04-19 12:32:23,840 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/Sidebar.module.css
+2025-04-19 12:32:23,873 - INFO - Counted 174 lines in aiworkspace/src/components/dashboardpage/TasksSection.jsx (extension: jsx)
+2025-04-19 12:32:23,873 - INFO - Excluded file by extension: aiworkspace/src/components/dashboardpage/TasksSection.module.css
+2025-04-19 12:32:23,873 - INFO - Skipping non-text file: aiworkspace/src/components/dashboardpage/TasksSection.module.css
+2025-04-19 12:32:23,873 - INFO - Processing 41/221 (18.6%): aiworkspace/src/components/features/Features.jsx [Elapsed: 45.3s]
+2025-04-19 12:32:23,873 - INFO - Processing 42/221 (19.0%): aiworkspace/src/components/features/Vision Mission.pdf [Elapsed: 45.3s]
+2025-04-19 12:32:23,873 - INFO - Processing 43/221 (19.5%): aiworkspace/src/components/footer/Footer.css [Elapsed: 45.3s]
+2025-04-19 12:32:23,873 - INFO - Processing 44/221 (19.9%): aiworkspace/src/components/footer/Footer.jsx [Elapsed: 45.3s]
+2025-04-19 12:32:23,873 - INFO - Processing 45/221 (20.4%): aiworkspace/src/components/herosection/Card.css [Elapsed: 45.3s]
+2025-04-19 12:32:23,873 - INFO - Processing 46/221 (20.8%): aiworkspace/src/components/herosection/Card.jsx [Elapsed: 45.3s]
+2025-04-19 12:32:23,873 - INFO - Processing 47/221 (21.3%): aiworkspace/src/components/herosection/Hero.css [Elapsed: 45.3s]
+2025-04-19 12:32:23,880 - INFO - Processing 48/221 (21.7%): aiworkspace/src/components/herosection/Hero.jsx [Elapsed: 45.3s]
+2025-04-19 12:32:23,880 - INFO - Processing 49/221 (22.2%): aiworkspace/src/components/herosection/HeroAnimation.css [Elapsed: 45.3s]
+2025-04-19 12:32:23,881 - INFO - Processing 50/221 (22.6%): aiworkspace/src/components/herosection/HeroAnimation.jsx [Elapsed: 45.3s]
+2025-04-19 12:32:24,180 - INFO - Counted 63 lines in aiworkspace/src/components/herosection/Hero.jsx (extension: jsx)
+2025-04-19 12:32:24,183 - INFO - Excluded file by extension: aiworkspace/src/components/footer/Footer.css
+2025-04-19 12:32:24,184 - INFO - Skipping non-text file: aiworkspace/src/components/footer/Footer.css
+2025-04-19 12:32:24,184 - INFO - Excluded file by extension: aiworkspace/src/components/herosection/Card.css
+2025-04-19 12:32:24,184 - INFO - Skipping non-text file: aiworkspace/src/components/herosection/Card.css
+2025-04-19 12:32:24,184 - INFO - Excluded file by extension: aiworkspace/src/components/herosection/HeroAnimation.css
+2025-04-19 12:32:24,184 - INFO - Skipping non-text file: aiworkspace/src/components/herosection/HeroAnimation.css
+2025-04-19 12:32:24,184 - INFO - Counted 66 lines in aiworkspace/src/components/features/Features.jsx (extension: jsx)
+2025-04-19 12:32:24,184 - INFO - Counted 11 lines in aiworkspace/src/components/footer/Footer.jsx (extension: jsx)
+2025-04-19 12:32:24,184 - INFO - Counted 33 lines in aiworkspace/src/components/herosection/Card.jsx (extension: jsx)
+2025-04-19 12:32:24,190 - INFO - Excluded file by extension: aiworkspace/src/components/herosection/Hero.css
+2025-04-19 12:32:24,190 - INFO - Skipping non-text file: aiworkspace/src/components/herosection/Hero.css
+2025-04-19 12:32:24,190 - INFO - Counted 113 lines in aiworkspace/src/components/herosection/HeroAnimation.jsx (extension: jsx)
+2025-04-19 12:32:24,453 - INFO - Skipping non-text file: aiworkspace/src/components/features/Vision Mission.pdf
+2025-04-19 12:32:24,463 - INFO - Processing 51/221 (23.1%): aiworkspace/src/components/infinitescroller/Infinite.css [Elapsed: 45.9s]
+2025-04-19 12:32:24,464 - INFO - Processing 52/221 (23.5%): aiworkspace/src/components/infinitescroller/Infinite.jsx [Elapsed: 45.9s]
+2025-04-19 12:32:24,464 - INFO - Processing 53/221 (24.0%): aiworkspace/src/components/navbar/Navbar.css [Elapsed: 45.9s]
+2025-04-19 12:32:24,464 - INFO - Processing 54/221 (24.4%): aiworkspace/src/components/navbar/Navbar.jsx [Elapsed: 45.9s]
+2025-04-19 12:32:24,464 - INFO - Processing 55/221 (24.9%): aiworkspace/src/components/testimonial/Testimonial.css [Elapsed: 45.9s]
+2025-04-19 12:32:24,464 - INFO - Processing 56/221 (25.3%): aiworkspace/src/components/testimonial/Testimonial.jsx [Elapsed: 45.9s]
+2025-04-19 12:32:24,471 - INFO - Processing 57/221 (25.8%): aiworkspace/src/docs_components/EditorComponent.css [Elapsed: 45.9s]
+2025-04-19 12:32:24,472 - INFO - Processing 58/221 (26.2%): aiworkspace/src/docs_components/EditorComponent.js [Elapsed: 45.9s]
+2025-04-19 12:32:24,473 - INFO - Processing 59/221 (26.7%): aiworkspace/src/docs_components/EditorToolbar.css [Elapsed: 45.9s]
+2025-04-19 12:32:24,474 - INFO - Processing 60/221 (27.1%): aiworkspace/src/docs_components/EditorToolbar.js [Elapsed: 45.9s]
+2025-04-19 12:32:24,804 - INFO - Counted 20 lines in aiworkspace/src/components/infinitescroller/Infinite.jsx (extension: jsx)
+2025-04-19 12:32:24,806 - INFO - Counted 60 lines in aiworkspace/src/components/navbar/Navbar.jsx (extension: jsx)
+2025-04-19 12:32:24,806 - INFO - Excluded file by extension: aiworkspace/src/components/infinitescroller/Infinite.css
+2025-04-19 12:32:24,806 - INFO - Skipping non-text file: aiworkspace/src/components/infinitescroller/Infinite.css
+2025-04-19 12:32:24,806 - INFO - Excluded file by extension: aiworkspace/src/components/navbar/Navbar.css
+2025-04-19 12:32:24,806 - INFO - Skipping non-text file: aiworkspace/src/components/navbar/Navbar.css
+2025-04-19 12:32:24,855 - INFO - Excluded file by extension: aiworkspace/src/docs_components/EditorComponent.css
+2025-04-19 12:32:24,863 - INFO - Skipping non-text file: aiworkspace/src/docs_components/EditorComponent.css
+2025-04-19 12:32:24,866 - INFO - Counted 11 lines in aiworkspace/src/components/testimonial/Testimonial.jsx (extension: jsx)
+2025-04-19 12:32:24,866 - INFO - Excluded file by extension: aiworkspace/src/components/testimonial/Testimonial.css
+2025-04-19 12:32:24,868 - INFO - Skipping non-text file: aiworkspace/src/components/testimonial/Testimonial.css
+2025-04-19 12:32:24,872 - INFO - Counted 329 lines in aiworkspace/src/docs_components/EditorComponent.js (extension: js)
+2025-04-19 12:32:24,873 - INFO - Counted 72 lines in aiworkspace/src/docs_components/EditorToolbar.js (extension: js)
+2025-04-19 12:32:24,874 - INFO - Excluded file by extension: aiworkspace/src/docs_components/EditorToolbar.css
+2025-04-19 12:32:24,874 - INFO - Skipping non-text file: aiworkspace/src/docs_components/EditorToolbar.css
+2025-04-19 12:32:24,874 - INFO - Processing 61/221 (27.6%): aiworkspace/src/docs_components/Sidebar.css [Elapsed: 46.3s]
+2025-04-19 12:32:24,874 - INFO - Processing 62/221 (28.1%): aiworkspace/src/docs_components/Sidebar.js [Elapsed: 46.3s]
+2025-04-19 12:32:24,874 - INFO - Processing 63/221 (28.5%): aiworkspace/src/documentation/Docs.css [Elapsed: 46.3s]
+2025-04-19 12:32:24,874 - INFO - Processing 64/221 (29.0%): aiworkspace/src/documentation/Docs.jsx [Elapsed: 46.3s]
+2025-04-19 12:32:24,874 - INFO - Processing 65/221 (29.4%): aiworkspace/src/index.css [Elapsed: 46.3s]
+2025-04-19 12:32:24,880 - INFO - Processing 66/221 (29.9%): aiworkspace/src/index.js [Elapsed: 46.3s]
+2025-04-19 12:32:24,881 - INFO - Processing 67/221 (30.3%): aiworkspace/src/meeting/App_meeting.js [Elapsed: 46.3s]
+2025-04-19 12:32:24,882 - INFO - Processing 68/221 (30.8%): aiworkspace/src/meeting/MeetingAppContextDef.js [Elapsed: 46.3s]
+2025-04-19 12:32:24,883 - INFO - Processing 69/221 (31.2%): aiworkspace/src/meeting/api.js [Elapsed: 46.3s]
+2025-04-19 12:32:24,885 - INFO - Processing 70/221 (31.7%): aiworkspace/src/meeting/components/ConfirmBox.js [Elapsed: 46.3s]
+2025-04-19 12:32:25,216 - INFO - Excluded file by extension: aiworkspace/src/documentation/Docs.css
+2025-04-19 12:32:25,216 - INFO - Skipping non-text file: aiworkspace/src/documentation/Docs.css
+2025-04-19 12:32:25,218 - INFO - Counted 53 lines in aiworkspace/src/index.js (extension: js)
+2025-04-19 12:32:25,220 - INFO - Counted 200 lines in aiworkspace/src/docs_components/Sidebar.js (extension: js)
+2025-04-19 12:32:25,223 - INFO - Counted 64 lines in aiworkspace/src/meeting/api.js (extension: js)
+2025-04-19 12:32:25,223 - INFO - Excluded file by extension: aiworkspace/src/index.css
+2025-04-19 12:32:25,225 - INFO - Skipping non-text file: aiworkspace/src/index.css
+2025-04-19 12:32:25,225 - INFO - Counted 30 lines in aiworkspace/src/documentation/Docs.jsx (extension: jsx)
+2025-04-19 12:32:25,228 - INFO - Counted 94 lines in aiworkspace/src/meeting/App_meeting.js (extension: js)
+2025-04-19 12:32:25,229 - INFO - Counted 97 lines in aiworkspace/src/meeting/MeetingAppContextDef.js (extension: js)
+2025-04-19 12:32:25,230 - INFO - Counted 84 lines in aiworkspace/src/meeting/components/ConfirmBox.js (extension: js)
+2025-04-19 12:32:25,315 - INFO - Excluded file by extension: aiworkspace/src/docs_components/Sidebar.css
+2025-04-19 12:32:25,315 - INFO - Skipping non-text file: aiworkspace/src/docs_components/Sidebar.css
+2025-04-19 12:32:25,315 - INFO - Processing 71/221 (32.1%): aiworkspace/src/meeting/components/DropDown.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,318 - INFO - Processing 72/221 (32.6%): aiworkspace/src/meeting/components/DropDownCam.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,318 - INFO - Processing 73/221 (33.0%): aiworkspace/src/meeting/components/DropDownSpeaker.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,318 - INFO - Processing 74/221 (33.5%): aiworkspace/src/meeting/components/MeetingDetailsScreen.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,318 - INFO - Processing 75/221 (33.9%): aiworkspace/src/meeting/components/NetworkStats.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,318 - INFO - Processing 76/221 (34.4%): aiworkspace/src/meeting/components/ParticipantGrid.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,323 - INFO - Processing 77/221 (34.8%): aiworkspace/src/meeting/components/ParticipantView.jsx [Elapsed: 46.7s]
+2025-04-19 12:32:25,323 - INFO - Processing 78/221 (35.3%): aiworkspace/src/meeting/components/PresenterView.jsx [Elapsed: 46.7s]
+2025-04-19 12:32:25,325 - INFO - Processing 79/221 (35.7%): aiworkspace/src/meeting/components/buttons/MobileIconButton.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,326 - INFO - Processing 80/221 (36.2%): aiworkspace/src/meeting/components/buttons/OutlineIconTextButton.js [Elapsed: 46.7s]
+2025-04-19 12:32:25,619 - INFO - Counted 298 lines in aiworkspace/src/meeting/components/DropDown.js (extension: js)
+2025-04-19 12:32:25,621 - INFO - Counted 524 lines in aiworkspace/src/meeting/components/ParticipantView.jsx (extension: jsx)
+2025-04-19 12:32:25,625 - INFO - Counted 135 lines in aiworkspace/src/meeting/components/MeetingDetailsScreen.js (extension: js)
+2025-04-19 12:32:25,636 - INFO - Counted 114 lines in aiworkspace/src/meeting/components/DropDownCam.js (extension: js)
+2025-04-19 12:32:25,637 - INFO - Counted 150 lines in aiworkspace/src/meeting/components/buttons/MobileIconButton.js (extension: js)
+2025-04-19 12:32:25,639 - INFO - Counted 96 lines in aiworkspace/src/meeting/components/NetworkStats.js (extension: js)
+2025-04-19 12:32:25,640 - INFO - Counted 154 lines in aiworkspace/src/meeting/components/PresenterView.jsx (extension: jsx)
+2025-04-19 12:32:25,643 - INFO - Counted 174 lines in aiworkspace/src/meeting/components/buttons/OutlineIconTextButton.js (extension: js)
+2025-04-19 12:32:25,644 - INFO - Counted 157 lines in aiworkspace/src/meeting/components/DropDownSpeaker.js (extension: js)
+2025-04-19 12:32:25,644 - INFO - Counted 108 lines in aiworkspace/src/meeting/components/ParticipantGrid.js (extension: js)
+2025-04-19 12:32:25,646 - INFO - Processing 81/221 (36.7%): aiworkspace/src/meeting/components/buttons/OutlinedButton.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,648 - INFO - Processing 82/221 (37.1%): aiworkspace/src/meeting/components/screens/JoiningScreen.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,649 - INFO - Processing 83/221 (37.6%): aiworkspace/src/meeting/components/screens/LeaveScreen.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,650 - INFO - Processing 84/221 (38.0%): aiworkspace/src/meeting/components/screens/WaitingToJoinScreen.jsx [Elapsed: 47.0s]
+2025-04-19 12:32:25,652 - INFO - Processing 85/221 (38.5%): aiworkspace/src/meeting/components/sidebar/ChatPanel.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,653 - INFO - Processing 86/221 (38.9%): aiworkspace/src/meeting/components/sidebar/ParticipantPanel.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,653 - INFO - Processing 87/221 (39.4%): aiworkspace/src/meeting/components/sidebar/SidebarContainer.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,655 - INFO - Processing 88/221 (39.8%): aiworkspace/src/meeting/hooks/useIsMobile.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,656 - INFO - Processing 89/221 (40.3%): aiworkspace/src/meeting/hooks/useIsRecording.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,657 - INFO - Processing 90/221 (40.7%): aiworkspace/src/meeting/hooks/useIsTab.js [Elapsed: 47.0s]
+2025-04-19 12:32:25,958 - INFO - Counted 565 lines in aiworkspace/src/meeting/components/screens/JoiningScreen.js (extension: js)
+2025-04-19 12:32:25,960 - INFO - Counted 79 lines in aiworkspace/src/meeting/components/screens/WaitingToJoinScreen.jsx (extension: jsx)
+2025-04-19 12:32:25,960 - INFO - Counted 17 lines in aiworkspace/src/meeting/components/screens/LeaveScreen.js (extension: js)
+2025-04-19 12:32:25,960 - INFO - Counted 223 lines in aiworkspace/src/meeting/components/buttons/OutlinedButton.js (extension: js)
+2025-04-19 12:32:25,963 - INFO - Counted 112 lines in aiworkspace/src/meeting/components/sidebar/ParticipantPanel.js (extension: js)
+2025-04-19 12:32:25,963 - INFO - Counted 185 lines in aiworkspace/src/meeting/components/sidebar/SidebarContainer.js (extension: js)
+2025-04-19 12:32:25,963 - INFO - Counted 161 lines in aiworkspace/src/meeting/components/sidebar/ChatPanel.js (extension: js)
+2025-04-19 12:32:26,003 - INFO - Counted 8 lines in aiworkspace/src/meeting/hooks/useIsMobile.js (extension: js)
+2025-04-19 12:32:26,003 - INFO - Counted 17 lines in aiworkspace/src/meeting/hooks/useIsRecording.js (extension: js)
+2025-04-19 12:32:26,003 - INFO - Counted 12 lines in aiworkspace/src/meeting/hooks/useIsTab.js (extension: js)
+2025-04-19 12:32:26,003 - INFO - Processing 91/221 (41.2%): aiworkspace/src/meeting/hooks/useMediaStream.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 92/221 (41.6%): aiworkspace/src/meeting/hooks/useWindowSize.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 93/221 (42.1%): aiworkspace/src/meeting/icons/Bottombar/ChatIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 94/221 (42.5%): aiworkspace/src/meeting/icons/Bottombar/EndIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 95/221 (43.0%): aiworkspace/src/meeting/icons/Bottombar/MicOffIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 96/221 (43.4%): aiworkspace/src/meeting/icons/Bottombar/MicOnIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 97/221 (43.9%): aiworkspace/src/meeting/icons/Bottombar/ParticipantsIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,003 - INFO - Processing 98/221 (44.3%): aiworkspace/src/meeting/icons/Bottombar/PipIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,013 - INFO - Processing 99/221 (44.8%): aiworkspace/src/meeting/icons/Bottombar/RaiseHandIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,014 - INFO - Processing 100/221 (45.2%): aiworkspace/src/meeting/icons/Bottombar/RecordingIcon.js [Elapsed: 47.4s]
+2025-04-19 12:32:26,303 - INFO - Counted 20 lines in aiworkspace/src/meeting/icons/Bottombar/ChatIcon.js (extension: js)
+2025-04-19 12:32:26,303 - INFO - Counted 17 lines in aiworkspace/src/meeting/icons/Bottombar/PipIcon.js (extension: js)
+2025-04-19 12:32:26,303 - INFO - Counted 42 lines in aiworkspace/src/meeting/icons/Bottombar/MicOffIcon.js (extension: js)
+2025-04-19 12:32:26,308 - INFO - Counted 36 lines in aiworkspace/src/meeting/icons/Bottombar/MicOnIcon.js (extension: js)
+2025-04-19 12:32:26,308 - INFO - Counted 34 lines in aiworkspace/src/meeting/hooks/useMediaStream.js (extension: js)
+2025-04-19 12:32:26,308 - INFO - Counted 34 lines in aiworkspace/src/meeting/icons/Bottombar/EndIcon.js (extension: js)
+2025-04-19 12:32:26,314 - INFO - Counted 18 lines in aiworkspace/src/meeting/icons/Bottombar/ParticipantsIcon.js (extension: js)
+2025-04-19 12:32:26,366 - INFO - Counted 21 lines in aiworkspace/src/meeting/hooks/useWindowSize.js (extension: js)
+2025-04-19 12:32:26,366 - INFO - Counted 40 lines in aiworkspace/src/meeting/icons/Bottombar/RaiseHandIcon.js (extension: js)
+2025-04-19 12:32:26,366 - INFO - Counted 38 lines in aiworkspace/src/meeting/icons/Bottombar/RecordingIcon.js (extension: js)
+2025-04-19 12:32:26,373 - INFO - Processing 101/221 (45.7%): aiworkspace/src/meeting/icons/Bottombar/ScreenShareIcon.js [Elapsed: 47.8s]
+2025-04-19 12:32:26,373 - INFO - Processing 102/221 (46.2%): aiworkspace/src/meeting/icons/Bottombar/WebcamOffIcon.js [Elapsed: 47.8s]
+2025-04-19 12:32:26,373 - INFO - Processing 103/221 (46.6%): aiworkspace/src/meeting/icons/Bottombar/WebcamOnIcon.js [Elapsed: 47.8s]
+2025-04-19 12:32:26,375 - INFO - Processing 104/221 (47.1%): aiworkspace/src/meeting/icons/CameraPermissionDenied.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,375 - INFO - Processing 105/221 (47.5%): aiworkspace/src/meeting/icons/DropDown/Check.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,375 - INFO - Processing 106/221 (48.0%): aiworkspace/src/meeting/icons/DropDown/DropCAM.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,375 - INFO - Processing 107/221 (48.4%): aiworkspace/src/meeting/icons/DropDown/DropMIC.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,377 - INFO - Processing 108/221 (48.9%): aiworkspace/src/meeting/icons/DropDown/DropSpeaker.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,377 - INFO - Processing 109/221 (49.3%): aiworkspace/src/meeting/icons/DropDown/PauseButton.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,378 - INFO - Processing 110/221 (49.8%): aiworkspace/src/meeting/icons/DropDown/TestMic.jsx [Elapsed: 47.8s]
+2025-04-19 12:32:26,691 - INFO - Counted 31 lines in aiworkspace/src/meeting/icons/DropDown/PauseButton.jsx (extension: jsx)
+2025-04-19 12:32:26,693 - INFO - Counted 24 lines in aiworkspace/src/meeting/icons/DropDown/DropSpeaker.jsx (extension: jsx)
+2025-04-19 12:32:26,693 - INFO - Counted 29 lines in aiworkspace/src/meeting/icons/Bottombar/WebcamOffIcon.js (extension: js)
+2025-04-19 12:32:26,694 - INFO - Counted 24 lines in aiworkspace/src/meeting/icons/DropDown/TestMic.jsx (extension: jsx)
+2025-04-19 12:32:26,694 - INFO - Counted 99 lines in aiworkspace/src/meeting/icons/CameraPermissionDenied.jsx (extension: jsx)
+2025-04-19 12:32:26,695 - INFO - Counted 18 lines in aiworkspace/src/meeting/icons/Bottombar/ScreenShareIcon.js (extension: js)
+2025-04-19 12:32:26,754 - INFO - Counted 24 lines in aiworkspace/src/meeting/icons/DropDown/DropMIC.jsx (extension: jsx)
+2025-04-19 12:32:26,755 - INFO - Counted 34 lines in aiworkspace/src/meeting/icons/Bottombar/WebcamOnIcon.js (extension: js)
+2025-04-19 12:32:26,755 - INFO - Counted 24 lines in aiworkspace/src/meeting/icons/DropDown/Check.jsx (extension: jsx)
+2025-04-19 12:32:26,757 - INFO - Counted 31 lines in aiworkspace/src/meeting/icons/DropDown/DropCAM.jsx (extension: jsx)
+2025-04-19 12:32:26,757 - INFO - Processing 111/221 (50.2%): aiworkspace/src/meeting/icons/DropDown/TestMicOff.jsx [Elapsed: 48.1s]
+2025-04-19 12:32:26,757 - INFO - Processing 112/221 (50.7%): aiworkspace/src/meeting/icons/DropDown/TestSpeaker.jsx [Elapsed: 48.1s]
+2025-04-19 12:32:26,758 - INFO - Processing 113/221 (51.1%): aiworkspace/src/meeting/icons/MicOffIcon.js [Elapsed: 48.1s]
+2025-04-19 12:32:26,758 - INFO - Processing 114/221 (51.6%): aiworkspace/src/meeting/icons/MicOffSmallIcon.js [Elapsed: 48.1s]
+2025-04-19 12:32:26,758 - INFO - Processing 115/221 (52.0%): aiworkspace/src/meeting/icons/MicPermissionDenied.jsx [Elapsed: 48.1s]
+2025-04-19 12:32:26,758 - INFO - Processing 116/221 (52.5%): aiworkspace/src/meeting/icons/NetworkIcon.js [Elapsed: 48.1s]
+2025-04-19 12:32:26,760 - INFO - Processing 117/221 (52.9%): aiworkspace/src/meeting/icons/NetworkStats/DownloadIcon.jsx [Elapsed: 48.2s]
+2025-04-19 12:32:26,760 - INFO - Processing 118/221 (53.4%): aiworkspace/src/meeting/icons/NetworkStats/RefreshCheck.jsx [Elapsed: 48.2s]
+2025-04-19 12:32:26,760 - INFO - Processing 119/221 (53.8%): aiworkspace/src/meeting/icons/NetworkStats/RefreshIcon.jsx [Elapsed: 48.2s]
+2025-04-19 12:32:26,762 - INFO - Processing 120/221 (54.3%): aiworkspace/src/meeting/icons/NetworkStats/UploadIcon.jsx [Elapsed: 48.2s]
+2025-04-19 12:32:27,053 - INFO - Counted 45 lines in aiworkspace/src/meeting/icons/MicOffIcon.js (extension: js)
+2025-04-19 12:32:27,055 - INFO - Counted 24 lines in aiworkspace/src/meeting/icons/DropDown/TestSpeaker.jsx (extension: jsx)
+2025-04-19 12:32:27,055 - INFO - Counted 23 lines in aiworkspace/src/meeting/icons/NetworkStats/RefreshIcon.jsx (extension: jsx)
+2025-04-19 12:32:27,055 - INFO - Counted 31 lines in aiworkspace/src/meeting/icons/DropDown/TestMicOff.jsx (extension: jsx)
+2025-04-19 12:32:27,055 - INFO - Counted 31 lines in aiworkspace/src/meeting/icons/NetworkStats/RefreshCheck.jsx (extension: jsx)
+2025-04-19 12:32:27,055 - INFO - Counted 86 lines in aiworkspace/src/meeting/icons/MicPermissionDenied.jsx (extension: jsx)
+2025-04-19 12:32:27,063 - INFO - Counted 25 lines in aiworkspace/src/meeting/icons/NetworkStats/UploadIcon.jsx (extension: jsx)
+2025-04-19 12:32:27,063 - INFO - Counted 24 lines in aiworkspace/src/meeting/icons/NetworkStats/DownloadIcon.jsx (extension: jsx)
+2025-04-19 12:32:27,063 - INFO - Counted 42 lines in aiworkspace/src/meeting/icons/MicOffSmallIcon.js (extension: js)
+2025-04-19 12:32:27,134 - INFO - Counted 21 lines in aiworkspace/src/meeting/icons/NetworkIcon.js (extension: js)
+2025-04-19 12:32:27,134 - INFO - Processing 121/221 (54.8%): aiworkspace/src/meeting/icons/NetworkStats/WifiOff.jsx [Elapsed: 48.5s]
+2025-04-19 12:32:27,134 - INFO - Processing 122/221 (55.2%): aiworkspace/src/meeting/icons/ParticipantTabPanel/MicOffIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,134 - INFO - Processing 123/221 (55.7%): aiworkspace/src/meeting/icons/ParticipantTabPanel/MicOnIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,134 - INFO - Processing 124/221 (56.1%): aiworkspace/src/meeting/icons/ParticipantTabPanel/RaiseHand.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,134 - INFO - Processing 125/221 (56.6%): aiworkspace/src/meeting/icons/ParticipantTabPanel/VideoCamOffIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,143 - INFO - Processing 126/221 (57.0%): aiworkspace/src/meeting/icons/ParticipantTabPanel/VideoCamOnIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,143 - INFO - Processing 127/221 (57.5%): aiworkspace/src/meeting/icons/ScreenShareIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,143 - INFO - Processing 128/221 (57.9%): aiworkspace/src/meeting/icons/SpeakerIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,143 - INFO - Processing 129/221 (58.4%): aiworkspace/src/meeting/icons/WebcamOffIcon.js [Elapsed: 48.5s]
+2025-04-19 12:32:27,143 - INFO - Processing 130/221 (58.8%): aiworkspace/src/meeting/meeting.css [Elapsed: 48.5s]
+2025-04-19 12:32:27,403 - INFO - Counted 30 lines in aiworkspace/src/meeting/icons/NetworkStats/WifiOff.jsx (extension: jsx)
+2025-04-19 12:32:27,408 - INFO - Counted 18 lines in aiworkspace/src/meeting/icons/ParticipantTabPanel/MicOffIcon.js (extension: js)
+2025-04-19 12:32:27,464 - INFO - Counted 33 lines in aiworkspace/src/meeting/icons/ParticipantTabPanel/VideoCamOnIcon.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Counted 18 lines in aiworkspace/src/meeting/icons/ParticipantTabPanel/VideoCamOffIcon.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Counted 18 lines in aiworkspace/src/meeting/icons/ParticipantTabPanel/MicOnIcon.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Counted 21 lines in aiworkspace/src/meeting/icons/ScreenShareIcon.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Counted 29 lines in aiworkspace/src/meeting/icons/WebcamOffIcon.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Counted 40 lines in aiworkspace/src/meeting/icons/ParticipantTabPanel/RaiseHand.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Counted 16 lines in aiworkspace/src/meeting/icons/SpeakerIcon.js (extension: js)
+2025-04-19 12:32:27,466 - INFO - Excluded file by extension: aiworkspace/src/meeting/meeting.css
+2025-04-19 12:32:27,466 - INFO - Skipping non-text file: aiworkspace/src/meeting/meeting.css
+2025-04-19 12:32:27,466 - INFO - Processing 131/221 (59.3%): aiworkspace/src/meeting/meeting.js [Elapsed: 48.9s]
+2025-04-19 12:32:27,466 - INFO - Processing 132/221 (59.7%): aiworkspace/src/meeting/meeting/MeetingContainer.js [Elapsed: 48.9s]
+2025-04-19 12:32:27,471 - INFO - Processing 133/221 (60.2%): aiworkspace/src/meeting/meeting/components/BottomBar.js [Elapsed: 48.9s]
+2025-04-19 12:32:27,471 - INFO - Processing 134/221 (60.6%): aiworkspace/src/meeting/meeting/components/ParticipantView.js [Elapsed: 48.9s]
+2025-04-19 12:32:27,472 - INFO - Processing 135/221 (61.1%): aiworkspace/src/meeting/output.css [Elapsed: 48.9s]
+2025-04-19 12:32:27,472 - INFO - Processing 136/221 (61.5%): aiworkspace/src/meeting/pictures/illustration.png [Elapsed: 48.9s]
+2025-04-19 12:32:27,473 - INFO - Processing 137/221 (62.0%): aiworkspace/src/meeting/sounds/test_sound.mp3 [Elapsed: 48.9s]
+2025-04-19 12:32:27,473 - INFO - Processing 138/221 (62.4%): aiworkspace/src/meeting/static/animations/join_meeting.json [Elapsed: 48.9s]
+2025-04-19 12:32:27,473 - INFO - Processing 139/221 (62.9%): aiworkspace/src/meeting/static/animations/recording-blink.json [Elapsed: 48.9s]
+2025-04-19 12:32:27,474 - INFO - Processing 140/221 (63.3%): aiworkspace/src/meeting/utils/common.js [Elapsed: 48.9s]
+2025-04-19 12:32:27,753 - INFO - Counted 75 lines in aiworkspace/src/meeting/utils/common.js (extension: js)
+2025-04-19 12:32:27,753 - INFO - Counted 33 lines in aiworkspace/src/meeting/meeting.js (extension: js)
+2025-04-19 12:32:27,753 - INFO - Counted 65 lines in aiworkspace/src/meeting/meeting/components/ParticipantView.js (extension: js)
+2025-04-19 12:32:27,753 - INFO - Counted 887 lines in aiworkspace/src/meeting/meeting/components/BottomBar.js (extension: js)
+2025-04-19 12:32:27,805 - INFO - Counted 0 lines in aiworkspace/src/meeting/static/animations/join_meeting.json (extension: json)
+2025-04-19 12:32:27,813 - INFO - Excluded file by extension: aiworkspace/src/meeting/output.css
+2025-04-19 12:32:27,815 - INFO - Skipping non-text file: aiworkspace/src/meeting/output.css
+2025-04-19 12:32:27,815 - INFO - Counted 1 lines in aiworkspace/src/meeting/static/animations/recording-blink.json (extension: json)
+2025-04-19 12:32:27,815 - INFO - Counted 318 lines in aiworkspace/src/meeting/meeting/MeetingContainer.js (extension: js)
+2025-04-19 12:32:27,850 - INFO - Skipping non-text file: aiworkspace/src/meeting/pictures/illustration.png
+2025-04-19 12:32:28,314 - INFO - Skipping non-text file: aiworkspace/src/meeting/sounds/test_sound.mp3
+2025-04-19 12:32:28,314 - INFO - Processing 141/221 (63.8%): aiworkspace/src/meeting/utils/helper.js [Elapsed: 49.7s]
+2025-04-19 12:32:28,314 - INFO - Processing 142/221 (64.3%): aiworkspace/src/mytask/MyTask.css [Elapsed: 49.7s]
+2025-04-19 12:32:28,314 - INFO - Processing 143/221 (64.7%): aiworkspace/src/mytask/MyTask.jsx [Elapsed: 49.7s]
+2025-04-19 12:32:28,314 - INFO - Processing 144/221 (65.2%): aiworkspace/src/postcss.config.cjs [Elapsed: 49.7s]
+2025-04-19 12:32:28,322 - INFO - Processing 145/221 (65.6%): aiworkspace/src/profile/Profile.css [Elapsed: 49.7s]
+2025-04-19 12:32:28,323 - INFO - Processing 146/221 (66.1%): aiworkspace/src/profile/Profile.jsx [Elapsed: 49.7s]
+2025-04-19 12:32:28,324 - INFO - Processing 147/221 (66.5%): aiworkspace/src/projects/Dashboard.css [Elapsed: 49.7s]
+2025-04-19 12:32:28,324 - INFO - Processing 148/221 (67.0%): aiworkspace/src/projects/Dashboard.jsx [Elapsed: 49.7s]
+2025-04-19 12:32:28,325 - INFO - Processing 149/221 (67.4%): aiworkspace/src/projects/GanttChart.css [Elapsed: 49.7s]
+2025-04-19 12:32:28,325 - INFO - Processing 150/221 (67.9%): aiworkspace/src/projects/GanttChart.jsx [Elapsed: 49.7s]
+2025-04-19 12:32:28,673 - INFO - Counted 37 lines in aiworkspace/src/meeting/utils/helper.js (extension: js)
+2025-04-19 12:32:28,678 - INFO - Counted 100 lines in aiworkspace/src/projects/Dashboard.jsx (extension: jsx)
+2025-04-19 12:32:28,678 - INFO - Excluded file by extension: aiworkspace/src/projects/GanttChart.css
+2025-04-19 12:32:28,679 - INFO - Skipping non-text file: aiworkspace/src/projects/GanttChart.css
+2025-04-19 12:32:28,679 - INFO - Counted 69 lines in aiworkspace/src/projects/GanttChart.jsx (extension: jsx)
+2025-04-19 12:32:28,681 - INFO - Excluded file by extension: aiworkspace/src/projects/Dashboard.css
+2025-04-19 12:32:28,681 - INFO - Skipping non-text file: aiworkspace/src/projects/Dashboard.css
+2025-04-19 12:32:28,683 - INFO - Counted 109 lines in aiworkspace/src/mytask/MyTask.jsx (extension: jsx)
+2025-04-19 12:32:28,683 - INFO - Counted 7 lines in aiworkspace/src/postcss.config.cjs (extension: cjs)
+2025-04-19 12:32:28,685 - INFO - Counted 172 lines in aiworkspace/src/profile/Profile.jsx (extension: jsx)
+2025-04-19 12:32:28,685 - INFO - Excluded file by extension: aiworkspace/src/profile/Profile.css
+2025-04-19 12:32:28,687 - INFO - Skipping non-text file: aiworkspace/src/profile/Profile.css
+2025-04-19 12:32:28,688 - INFO - Excluded file by extension: aiworkspace/src/mytask/MyTask.css
+2025-04-19 12:32:28,693 - INFO - Skipping non-text file: aiworkspace/src/mytask/MyTask.css
+2025-04-19 12:32:28,693 - INFO - Processing 151/221 (68.3%): aiworkspace/src/projects/ProjectPage.jsx [Elapsed: 50.1s]
+2025-04-19 12:32:28,694 - INFO - Processing 152/221 (68.8%): aiworkspace/src/projects/ProjectPage.module.css [Elapsed: 50.1s]
+2025-04-19 12:32:28,694 - INFO - Processing 153/221 (69.2%): aiworkspace/src/projects/Ragui.css [Elapsed: 50.1s]
+2025-04-19 12:32:28,694 - INFO - Processing 154/221 (69.7%): aiworkspace/src/projects/Ragui.js [Elapsed: 50.1s]
+2025-04-19 12:32:28,697 - INFO - Processing 155/221 (70.1%): aiworkspace/src/projects/Scheduler.jsx [Elapsed: 50.1s]
+2025-04-19 12:32:28,698 - INFO - Processing 156/221 (70.6%): aiworkspace/src/projects/Scheduler.module.css [Elapsed: 50.1s]
+2025-04-19 12:32:28,701 - INFO - Processing 157/221 (71.0%): aiworkspace/src/projects/Toolbar.jsx [Elapsed: 50.1s]
+2025-04-19 12:32:28,702 - INFO - Processing 158/221 (71.5%): aiworkspace/src/projects/mockData.js [Elapsed: 50.1s]
+2025-04-19 12:32:28,704 - INFO - Processing 159/221 (71.9%): aiworkspace/src/projects/utils.js [Elapsed: 50.1s]
+2025-04-19 12:32:28,704 - INFO - Processing 160/221 (72.4%): aiworkspace/src/reportWebVitals.js [Elapsed: 50.1s]
+2025-04-19 12:32:28,998 - INFO - Counted 31 lines in aiworkspace/src/projects/utils.js (extension: js)
+2025-04-19 12:32:28,998 - INFO - Excluded file by extension: aiworkspace/src/projects/ProjectPage.module.css
+2025-04-19 12:32:29,003 - INFO - Skipping non-text file: aiworkspace/src/projects/ProjectPage.module.css
+2025-04-19 12:32:29,003 - INFO - Excluded file by extension: aiworkspace/src/projects/Scheduler.module.css
+2025-04-19 12:32:29,003 - INFO - Skipping non-text file: aiworkspace/src/projects/Scheduler.module.css
+2025-04-19 12:32:29,003 - INFO - Counted 202 lines in aiworkspace/src/projects/Scheduler.jsx (extension: jsx)
+2025-04-19 12:32:29,003 - INFO - Counted 34 lines in aiworkspace/src/projects/Toolbar.jsx (extension: jsx)
+2025-04-19 12:32:29,033 - INFO - Counted 167 lines in aiworkspace/src/projects/ProjectPage.jsx (extension: jsx)
+2025-04-19 12:32:29,037 - INFO - Counted 13 lines in aiworkspace/src/reportWebVitals.js (extension: js)
+2025-04-19 12:32:29,037 - INFO - Counted 7 lines in aiworkspace/src/projects/mockData.js (extension: js)
+2025-04-19 12:32:29,037 - INFO - Excluded file by extension: aiworkspace/src/projects/Ragui.css
+2025-04-19 12:32:29,037 - INFO - Skipping non-text file: aiworkspace/src/projects/Ragui.css
+2025-04-19 12:32:29,049 - INFO - Counted 170 lines in aiworkspace/src/projects/Ragui.js (extension: js)
+2025-04-19 12:32:29,049 - INFO - Processing 161/221 (72.9%): aiworkspace/src/session/SessionTimeout.css [Elapsed: 50.4s]
+2025-04-19 12:32:29,049 - INFO - Processing 162/221 (73.3%): aiworkspace/src/session/SessionTimeout.jsx [Elapsed: 50.4s]
+2025-04-19 12:32:29,049 - INFO - Processing 163/221 (73.8%): aiworkspace/src/setupTests.js [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 164/221 (74.2%): aiworkspace/src/signup/register/Register.css [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 165/221 (74.7%): aiworkspace/src/signup/register/Register.jsx [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 166/221 (75.1%): aiworkspace/src/signup/signin/Signin.css [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 167/221 (75.6%): aiworkspace/src/signup/signin/Signin.jsx [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 168/221 (76.0%): aiworkspace/src/socket.js [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 169/221 (76.5%): aiworkspace/src/tailwind.config.js [Elapsed: 50.4s]
+2025-04-19 12:32:29,053 - INFO - Processing 170/221 (76.9%): aiworkspace/src/teams/TeamPage.jsx [Elapsed: 50.4s]
+2025-04-19 12:32:29,382 - INFO - Counted 14 lines in aiworkspace/src/setupTests.js (extension: js)
+2025-04-19 12:32:29,385 - INFO - Counted 34 lines in aiworkspace/src/session/SessionTimeout.jsx (extension: jsx)
+2025-04-19 12:32:29,385 - INFO - Counted 372 lines in aiworkspace/src/teams/TeamPage.jsx (extension: jsx)
+2025-04-19 12:32:29,385 - INFO - Counted 8 lines in aiworkspace/src/socket.js (extension: js)
+2025-04-19 12:32:29,385 - INFO - Counted 85 lines in aiworkspace/src/signup/signin/Signin.jsx (extension: jsx)
+2025-04-19 12:32:29,385 - INFO - Excluded file by extension: aiworkspace/src/signup/signin/Signin.css
+2025-04-19 12:32:29,385 - INFO - Skipping non-text file: aiworkspace/src/signup/signin/Signin.css
+2025-04-19 12:32:29,385 - INFO - Excluded file by extension: aiworkspace/src/signup/register/Register.css
+2025-04-19 12:32:29,385 - INFO - Skipping non-text file: aiworkspace/src/signup/register/Register.css
+2025-04-19 12:32:29,385 - INFO - Counted 128 lines in aiworkspace/src/signup/register/Register.jsx (extension: jsx)
+2025-04-19 12:32:29,385 - INFO - Excluded file by extension: aiworkspace/src/session/SessionTimeout.css
+2025-04-19 12:32:29,385 - INFO - Skipping non-text file: aiworkspace/src/session/SessionTimeout.css
+2025-04-19 12:32:29,430 - INFO - Counted 12 lines in aiworkspace/src/tailwind.config.js (extension: js)
+2025-04-19 12:32:29,430 - INFO - Processing 171/221 (77.4%): aiworkspace/src/teams/TeamPage.module.css [Elapsed: 50.8s]
+2025-04-19 12:32:29,433 - INFO - Processing 172/221 (77.8%): aiworkspace/src/utils/LogoBanner/logo1.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,434 - INFO - Processing 173/221 (78.3%): aiworkspace/src/utils/LogoBanner/logo2.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,434 - INFO - Processing 174/221 (78.7%): aiworkspace/src/utils/LogoBanner/logo3.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,437 - INFO - Processing 175/221 (79.2%): aiworkspace/src/utils/LogoBanner/logo4.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,438 - INFO - Processing 176/221 (79.6%): aiworkspace/src/utils/constant.js [Elapsed: 50.8s]
+2025-04-19 12:32:29,438 - INFO - Processing 177/221 (80.1%): aiworkspace/src/utils/features/branch.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,438 - INFO - Processing 178/221 (80.5%): aiworkspace/src/utils/features/flag.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,438 - INFO - Processing 179/221 (81.0%): aiworkspace/src/utils/features/globe.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,438 - INFO - Processing 180/221 (81.4%): aiworkspace/src/utils/features/graphic-circle.png [Elapsed: 50.8s]
+2025-04-19 12:32:29,731 - INFO - Skipping non-text file: aiworkspace/src/utils/LogoBanner/logo1.png
+2025-04-19 12:32:29,733 - INFO - Counted 58 lines in aiworkspace/src/utils/constant.js (extension: js)
+2025-04-19 12:32:29,733 - INFO - Skipping non-text file: aiworkspace/src/utils/features/globe.png
+2025-04-19 12:32:29,733 - INFO - Skipping non-text file: aiworkspace/src/utils/features/flag.png
+2025-04-19 12:32:29,733 - INFO - Excluded file by extension: aiworkspace/src/teams/TeamPage.module.css
+2025-04-19 12:32:29,733 - INFO - Skipping non-text file: aiworkspace/src/teams/TeamPage.module.css
+2025-04-19 12:32:29,737 - INFO - Skipping non-text file: aiworkspace/src/utils/features/graphic-circle.png
+2025-04-19 12:32:29,737 - INFO - Skipping non-text file: aiworkspace/src/utils/LogoBanner/logo2.png
+2025-04-19 12:32:29,773 - INFO - Skipping non-text file: aiworkspace/src/utils/LogoBanner/logo4.png
+2025-04-19 12:32:29,773 - INFO - Skipping non-text file: aiworkspace/src/utils/LogoBanner/logo3.png
+2025-04-19 12:32:29,785 - INFO - Skipping non-text file: aiworkspace/src/utils/features/branch.png
+2025-04-19 12:32:29,785 - INFO - Processing 181/221 (81.9%): aiworkspace/src/utils/features/hash.png [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 182/221 (82.4%): aiworkspace/src/utils/features/radial-gradient-features.png [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 183/221 (82.8%): aiworkspace/src/utils/features/thumbs-up.png [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 184/221 (83.3%): aiworkspace/src/utils/hello.jsx [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 185/221 (83.7%): aiworkspace/src/utils/right_bg_pics/right_bg1.png [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 186/221 (84.2%): aiworkspace/src/whiteboard/White.jsx [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 187/221 (84.6%): backend/.dockerignore [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 188/221 (85.1%): backend/.gitignore [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 189/221 (85.5%): backend/Dockerfile [Elapsed: 51.2s]
+2025-04-19 12:32:29,785 - INFO - Processing 190/221 (86.0%): backend/app/main.py [Elapsed: 51.2s]
+2025-04-19 12:32:30,090 - INFO - Counted 23 lines in backend/Dockerfile (extension: no_extension)
+2025-04-19 12:32:30,091 - INFO - Skipping non-text file: aiworkspace/src/utils/features/thumbs-up.png
+2025-04-19 12:32:30,092 - INFO - Counted 1 lines in aiworkspace/src/utils/hello.jsx (extension: jsx)
+2025-04-19 12:32:30,092 - INFO - Counted 0 lines in backend/app/main.py (extension: py)
+2025-04-19 12:32:30,093 - INFO - Skipping non-text file: aiworkspace/src/utils/features/hash.png
+2025-04-19 12:32:30,097 - INFO - Counted 4 lines in backend/.dockerignore (extension: no_extension)
+2025-04-19 12:32:30,105 - INFO - Counted 10 lines in aiworkspace/src/whiteboard/White.jsx (extension: jsx)
+2025-04-19 12:32:30,110 - INFO - Counted 23 lines in backend/.gitignore (extension: no_extension)
+2025-04-19 12:32:30,231 - INFO - Skipping non-text file: aiworkspace/src/utils/features/radial-gradient-features.png
+2025-04-19 12:32:30,336 - INFO - Skipping non-text file: aiworkspace/src/utils/right_bg_pics/right_bg1.png
+2025-04-19 12:32:30,337 - INFO - Processing 191/221 (86.4%): backend/controllers/authControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,339 - INFO - Processing 192/221 (86.9%): backend/controllers/documentControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,339 - INFO - Processing 193/221 (87.3%): backend/controllers/modTaskControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,340 - INFO - Processing 194/221 (87.8%): backend/controllers/profileControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,341 - INFO - Processing 195/221 (88.2%): backend/controllers/projControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,341 - INFO - Processing 196/221 (88.7%): backend/controllers/queryControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,342 - INFO - Processing 197/221 (89.1%): backend/controllers/scheduleControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,343 - INFO - Processing 198/221 (89.6%): backend/controllers/teamControllers.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,344 - INFO - Processing 199/221 (90.0%): backend/models/Document.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,344 - INFO - Processing 200/221 (90.5%): backend/models/Message.js [Elapsed: 51.7s]
+2025-04-19 12:32:30,636 - INFO - Counted 14 lines in backend/models/Message.js (extension: js)
+2025-04-19 12:32:30,637 - INFO - Counted 136 lines in backend/controllers/scheduleControllers.js (extension: js)
+2025-04-19 12:32:30,639 - INFO - Counted 240 lines in backend/controllers/modTaskControllers.js (extension: js)
+2025-04-19 12:32:30,739 - INFO - Counted 29 lines in backend/controllers/queryControllers.js (extension: js)
+2025-04-19 12:32:30,740 - INFO - Counted 32 lines in backend/models/Document.js (extension: js)
+2025-04-19 12:32:30,742 - INFO - Counted 155 lines in backend/controllers/projControllers.js (extension: js)
+2025-04-19 12:32:30,743 - INFO - Counted 147 lines in backend/controllers/teamControllers.js (extension: js)
+2025-04-19 12:32:30,743 - INFO - Counted 111 lines in backend/controllers/documentControllers.js (extension: js)
+2025-04-19 12:32:30,744 - INFO - Counted 33 lines in backend/controllers/profileControllers.js (extension: js)
+2025-04-19 12:32:30,744 - INFO - Counted 104 lines in backend/controllers/authControllers.js (extension: js)
+2025-04-19 12:32:30,745 - INFO - Processing 201/221 (91.0%): backend/models/Modules.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,745 - INFO - Processing 202/221 (91.4%): backend/models/Projects.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,746 - INFO - Processing 203/221 (91.9%): backend/models/Schedule.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,747 - INFO - Processing 204/221 (92.3%): backend/models/Teams.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,747 - INFO - Processing 205/221 (92.8%): backend/models/User.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,749 - INFO - Processing 206/221 (93.2%): backend/package-lock.json [Elapsed: 52.1s]
+2025-04-19 12:32:30,750 - INFO - Processing 207/221 (93.7%): backend/package.json [Elapsed: 52.1s]
+2025-04-19 12:32:30,751 - INFO - Processing 208/221 (94.1%): backend/routes/authRoutes/authRoutes.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,752 - INFO - Processing 209/221 (94.6%): backend/routes/docRoutes/docRoutes.js [Elapsed: 52.1s]
+2025-04-19 12:32:30,753 - INFO - Processing 210/221 (95.0%): backend/routes/groupRoutes/groupRoutes.js [Elapsed: 52.1s]
+2025-04-19 12:32:31,073 - INFO - Counted 76 lines in backend/models/Modules.js (extension: js)
+2025-04-19 12:32:31,073 - INFO - Counted 42 lines in backend/models/Projects.js (extension: js)
+2025-04-19 12:32:31,073 - INFO - Counted 89 lines in backend/models/Teams.js (extension: js)
+2025-04-19 12:32:31,073 - INFO - Counted 13 lines in backend/routes/docRoutes/docRoutes.js (extension: js)
+2025-04-19 12:32:31,073 - INFO - Counted 35 lines in backend/package.json (extension: json)
+2025-04-19 12:32:31,073 - INFO - Counted 34 lines in backend/models/Schedule.js (extension: js)
+2025-04-19 12:32:31,073 - INFO - Counted 46 lines in backend/routes/groupRoutes/groupRoutes.js (extension: js)
+2025-04-19 12:32:31,073 - INFO - Counted 12 lines in backend/routes/authRoutes/authRoutes.js (extension: js)
+2025-04-19 12:32:31,091 - INFO - Counted 31 lines in backend/models/User.js (extension: js)
+2025-04-19 12:32:31,178 - INFO - Counted 5741 lines in backend/package-lock.json (extension: json)
+2025-04-19 12:32:31,179 - INFO - Processing 211/221 (95.5%): backend/routes/modTaskRoutes/modTaskRoutes.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,180 - INFO - Processing 212/221 (95.9%): backend/routes/profileRoutes/profileRoutes.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,181 - INFO - Processing 213/221 (96.4%): backend/routes/projRoutes/projRoutes.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,182 - INFO - Processing 214/221 (96.8%): backend/routes/queryRoutes/queryRoutes.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,183 - INFO - Processing 215/221 (97.3%): backend/routes/scheduleRoutes/scheduleRoutes.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,184 - INFO - Processing 216/221 (97.7%): backend/routes/teamRoutes/teamRoutes.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,185 - INFO - Processing 217/221 (98.2%): backend/server.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,185 - INFO - Processing 218/221 (98.6%): backend/tests/example.test.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,186 - INFO - Processing 219/221 (99.1%): backend/utils/socketIO/socket.js [Elapsed: 52.6s]
+2025-04-19 12:32:31,186 - INFO - Processing 220/221 (99.5%): docker-compose.yml [Elapsed: 52.6s]
+2025-04-19 12:32:31,445 - INFO - Counted 12 lines in backend/routes/projRoutes/projRoutes.js (extension: js)
+2025-04-19 12:32:31,451 - INFO - Counted 71 lines in backend/utils/socketIO/socket.js (extension: js)
+2025-04-19 12:32:31,458 - INFO - Counted 14 lines in backend/routes/modTaskRoutes/modTaskRoutes.js (extension: js)
+2025-04-19 12:32:31,488 - INFO - Counted 11 lines in backend/routes/scheduleRoutes/scheduleRoutes.js (extension: js)
+2025-04-19 12:32:31,493 - INFO - Counted 38 lines in docker-compose.yml (extension: yml)
+2025-04-19 12:32:31,493 - INFO - Counted 7 lines in backend/routes/profileRoutes/profileRoutes.js (extension: js)
+2025-04-19 12:32:31,493 - INFO - Counted 5 lines in backend/tests/example.test.js (extension: js)
+2025-04-19 12:32:31,493 - INFO - Counted 7 lines in backend/routes/queryRoutes/queryRoutes.js (extension: js)
+2025-04-19 12:32:31,493 - INFO - Counted 78 lines in backend/server.js (extension: js)
+2025-04-19 12:32:31,493 - INFO - Counted 13 lines in backend/routes/teamRoutes/teamRoutes.js (extension: js)
+2025-04-19 12:32:31,493 - INFO - Processing 221/221 (100.0%): package-lock.json [Elapsed: 52.9s]
+2025-04-19 12:32:31,793 - INFO - Counted 6 lines in package-lock.json (extension: json)
+2025-04-19 12:32:31,800 - INFO - Saved LOC counts to loc_counts.json
+2025-04-19 12:32:31,800 - INFO - Completed in 53.2 seconds
